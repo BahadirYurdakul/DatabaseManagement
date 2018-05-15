@@ -1,6 +1,4 @@
-# DatabaseManagement
-
-Video Games Distribution Database
+# Video Games Distribution Database
 
 Problem Definition:
 A company needs a database for selling video games and extra programs for these games. Company wants to record users, their games and communities about these games. The database should have also game companies, genres of the games and should show special offers of the games and other products.
